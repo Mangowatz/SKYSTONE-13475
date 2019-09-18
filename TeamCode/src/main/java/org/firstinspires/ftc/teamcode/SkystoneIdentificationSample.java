@@ -107,7 +107,7 @@ public class SkystoneIdentificationSample extends LinearOpMode {
      * and paste it in to your code on the next line, between the double quotes.
      */
     private static final String VUFORIA_KEY =
-            "AboXNav/////AAABmeGOS7NozU5qnTs51UZZ17g1BcHElTpLG7nsEbYufdDfWLm+ZbdqBWX7hOXxoHiu9tzNUQI4PIsRb96x9UHLizYXL8ZzqsCRKqmHx6iiGL81vuTLUyZ3yTybJ5AENkTY8h7YrKSJZnvS7W3V4EoZFxXRe4mEhxxWYsYSlBx6MEX7m9RAet8LGIf35OjCd5wzC/tSGMs+RGx+4tU+aCQkytnoaPcnEGzzt9nLu/0DypuJFc2pI+FuwGw0Y52PbDBrnb/cw+SLSRYGbYavN77to3eguAn7rG8vN0W0RrYYvkWxiRh1HY0WWtew91WaN4+hmkwWRoEFmC6CAt3kAzg1NSQWpRGXNreOlMqOf8Dr+H8j";
+            "AUAT8H7/////AAABmVT8cXDczkscg5eoVslRm3Iqwc8wiEkOPJdFPIVsSR/V8SoCi2/9fCln06m/GRyXqo151n5IFrFELhN+v+bJFzojH/tihpbnC3iJDVg5EhQUUIC/ghYVAjc7FfMH8fHWjOt9bPAkKacSJ4PCXgudmfQwrEHeTgwyVPnP04BJ3C3P1J+QyCDE72Y2dQj9khC5tjKzYL6koiwSvyNtVTLpLErT1neVFdQ3eMuauytZX9RpND8QeojA5kGDfSZMZrtqI+MBz5+0x4XtnqRbe0ZN838RynoqETAIeMaWXgbv66wUbNlAsT7NboldIh6X2/hpen1F/wE4my4ceXHcWACrt+XdSn3kKHtmKKMG9fW1JicU";
 
     // Since ImageTarget trackables use mm to specifiy their dimensions, we must use mm for all the physical dimension.
     // We will define some constants and conversions here
